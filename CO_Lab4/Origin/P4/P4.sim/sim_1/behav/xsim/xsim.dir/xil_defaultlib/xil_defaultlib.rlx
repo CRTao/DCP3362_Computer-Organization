@@ -1,0 +1,19 @@
+0.6
+2018.1
+Apr  4 2018
+19:30:32
+C:/Users/User/Desktop/P4/P4.sim/sim_1/behav/xsim/glbl.v,1522801934,verilog,,,,glbl,,,,,,,,
+C:/Users/User/Desktop/P4/lab4_code/ALU.v,1527769842,verilog,,C:/Users/User/Desktop/P4/lab4_code/ALU_Ctrl.v,,ALU,,,,,,,,
+C:/Users/User/Desktop/P4/lab4_code/ALU_Ctrl.v,1527769795,verilog,,C:/Users/User/Desktop/P4/lab4_code/Adder.v,,ALU_Ctrl,,,,,,,,
+C:/Users/User/Desktop/P4/lab4_code/Adder.v,1525249555,verilog,,C:/Users/User/Desktop/P4/lab4_code/Data_Memory.v,,Adder,,,,,,,,
+C:/Users/User/Desktop/P4/lab4_code/Data_Memory.v,1527609317,verilog,,C:/Users/User/Desktop/P4/lab4_code/Decoder.v,,Data_Memory,,,,,,,,
+C:/Users/User/Desktop/P4/lab4_code/Decoder.v,1527771472,verilog,,C:/Users/User/Desktop/P4/lab4_code/Instruction_Memory.v,,Decoder,,,,,,,,
+C:/Users/User/Desktop/P4/lab4_code/Instruction_Memory.v,1527770539,verilog,,C:/Users/User/Desktop/P4/lab4_code/MUX_2to1.v,,Instruction_Memory,,,,,,,,
+C:/Users/User/Desktop/P4/lab4_code/MUX_2to1.v,1525249592,verilog,,C:/Users/User/Desktop/P4/lab4_code/Pipe_CPU_1.v,,MUX_2to1,,,,,,,,
+C:/Users/User/Desktop/P4/lab4_code/Pipe_CPU_1.v,1527770589,verilog,,C:/Users/User/Desktop/P4/lab4_code/Pipe_Reg.v,,Pipe_CPU_1,,,,,,,,
+C:/Users/User/Desktop/P4/lab4_code/Pipe_Reg.v,1527766160,verilog,,C:/Users/User/Desktop/P4/lab4_code/ProgramCounter.v,,Pipe_Reg,,,,,,,,
+C:/Users/User/Desktop/P4/lab4_code/ProgramCounter.v,1319446855,verilog,,C:/Users/User/Desktop/P4/lab4_code/Reg_File.v,,ProgramCounter,,,,,,,,
+C:/Users/User/Desktop/P4/lab4_code/Reg_File.v,1399639474,verilog,,C:/Users/User/Desktop/P4/lab4_code/Shift_Left_Two_32.v,,Reg_File,,,,,,,,
+C:/Users/User/Desktop/P4/lab4_code/Shift_Left_Two_32.v,1525249596,verilog,,C:/Users/User/Desktop/P4/lab4_code/Sign_Extend.v,,Shift_Left_Two_32,,,,,,,,
+C:/Users/User/Desktop/P4/lab4_code/Sign_Extend.v,1525249599,verilog,,C:/Users/User/Desktop/P4/lab4_code/TestBench.v,,Sign_Extend,,,,,,,,
+C:/Users/User/Desktop/P4/lab4_code/TestBench.v,1527770563,verilog,,,,TestBench,,,,,,,,
